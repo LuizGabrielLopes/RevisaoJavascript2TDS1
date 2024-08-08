@@ -11,7 +11,7 @@ hamburguer.push(saladas[1]);
 hamburguer.push(carnes[1]);
 hamburguer.push(queijos[1]);
 
-for 
+for
     (let i = 0; i < hamburguer.length; i++) {
-console.log(hamburguer[i]);
+    console.log(hamburguer[i]);
 }
